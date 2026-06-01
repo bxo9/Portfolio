@@ -91,17 +91,13 @@ font-family: monospace;
 font-size: 31px;
 }
 
-#logotop{
-    height: 300px;
-    width: 300px;
-    background-color: white;
-    margin-left: 67%;
-    border-radius: 20px;
-    color: #2c2f40;
-    font-size: 60px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    align-items: flex-end;
+.box img{
+   height: 250px;
+   width: 250px;
+   margin-left: 67%;
+   margin-top: -310px;
+   border-radius: ;
+
 }
 
 #logotop p{
