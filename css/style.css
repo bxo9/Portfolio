@@ -66,6 +66,10 @@ nav ul li a{
     margin-top: 5px;
     margin-left: 9%;
     padding-bottom: 8.5rem;
+     margin-left: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: x-large;
+margin-right: 100px;
 }
 
 #home h1{
@@ -73,13 +77,18 @@ nav ul li a{
     margin-right: 100px;
     margin-left: 2px;
     margin-top: 50px;
-    
+    font-size: 45px;
+    margin-top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 
 .text p{
     text-align: left;
-    font-size: large;
     margin-top: 10px;
+    margin-right: 40%;
+font-family: monospace;
+font-size: px;
 }
 
 #logotop{
@@ -87,6 +96,12 @@ nav ul li a{
     width: 300px;
     background-color: white;
     margin-left: 67%;
+    border-radius: 20px;
+    color: #2c2f40;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
 }
 
 #logotop p{
@@ -95,7 +110,7 @@ nav ul li a{
    display: flex;
    align-items: center;
    justify-content: center;
-
+   font-size: 30px;
 }
 
 #aboutme{
