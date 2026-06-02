@@ -15,7 +15,7 @@ I have build some projects to improve my skills and gain real world development 
 ## 🌐 Live Demo
  https://bxo9.github.io/Portfolio/
  ## 📸 Preview 
- <img src="/assets/img/portfolio.png>
+ ![Preview Image](/assets/img/portfolio.png)
 ## 🏹Goals 
 - Improve frontend development skills
 - Build professional projects
@@ -23,4 +23,4 @@ I have build some projects to improve my skills and gain real world development 
 ## 🔗 Connect With Me
 Feel free to explore my work and provide feedback.
 notpublic@gmail.com
-⚡ Code. Create. Innovate.
+⚡Code. Create. Innovate.
