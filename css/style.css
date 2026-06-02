@@ -95,9 +95,9 @@ font-size: 31px;
    height: 250px;
    width: 250px;
    margin-left: 67%;
-   margin-top: -310px;
-   border-radius: ;
-
+   margin-top: -700px;
+   border-radius: 50%;
+ box-shadow: 0 14px 28px rgba(243, 1, 1, 0.25), 0 10px 10px rgba(226, 4, 4, 0.22);
 }
 
 #logotop p{
@@ -127,6 +127,8 @@ margin-right: 100px;
     margin-bottom: 10%;
     box-shadow: red;
     margin-right: 50%;
+    margin-top: -300px;
+     box-shadow: 0 14px 28px rgba(243, 4, 4, 0.25), 0 10px 10px rgba(249, 4, 4, 0.22);
     }
 
 #aboutme h1{
