@@ -13,7 +13,7 @@
 ## 🔥Featured Projects
 I have build some projects to improve my skills and gain real world development experience.
 ## 🌐 Live Demo
- https://bxo9.github.io/Portfolio/
+ https://bxo9.netlify.app/
  ## 📸 Preview 
  ![Preview Image](/assets/img/portfolio.png)
 ## 🏹Goals 
