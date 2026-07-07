@@ -2,7 +2,7 @@
 :root {
     --background:#a6da95;
     --blue:#7dc4e4;
-    --optional:#2c2f40;
+    --optional:#37664d;
     --Red:#ed8796;
     --Peach:#f5a97f;
     --Yellow:#df8e1d;
@@ -15,6 +15,10 @@
     --shadow-accent: 6px 6px 0px var(--ctp-yellow);
 }
 
+
+html{
+    scroll-behavior: smooth;
+}
 
 * {
     margin: 0;
@@ -96,7 +100,7 @@ font-size: 31px;
    width: 250px;
    margin-left: 67%;
    margin-top: -700px;
-   border-radius: 50%;
+   border-radius: 0px;
     box-shadow: 0 14px 28px rgba(243, 4, 4, 0.25), 0 10px 10px rgba(249, 4, 4, 0.22);
 }
 
@@ -191,23 +195,23 @@ margin-right: 100px;
 }
 
 .HTML{
-    width: 90%;
+    width: 66%;
     animation: HTML 3s;
 }
 .CSS{
-    width: 70%;
+    width: 60%;
     animation: CSS 3s;
 }
 .Figma{
-    width: 45%;
+    width: 40%;
     animation: Figma 3s;
 }
 .MySQL{
-    width: 45%;
+    width: 25%;
     animation: MySQL 3s;
 }
 .JavaScript{
-    width: 39%;
+    width: 30%;
     animation: JavaScript 3s;
 }
 
@@ -216,7 +220,7 @@ margin-right: 100px;
         width: 0%;
     }
     100%{
-        width: 90%;
+        width: 66%;
     }
 }
 @keyframes CSS{
@@ -224,7 +228,7 @@ margin-right: 100px;
         width: 0%;
     }
     100%{
-        width: 70%;
+        width: 60%;
     }
 }
 @keyframes Figma{
@@ -232,7 +236,7 @@ margin-right: 100px;
         width: 0%;
     }
     100%{
-        width: 45%;
+        width: 40%;
     }
 }
 @keyframes MySQL{
@@ -240,7 +244,7 @@ margin-right: 100px;
         width: 0%;
     }
     100%{
-        width: 45%;
+        width: 25%;
     }
 }
 @keyframes JavaScript{
@@ -248,7 +252,7 @@ margin-right: 100px;
         width: 0%;
     }
     100%{
-        width: 39%;
+        width: 30%;
     }
 }
 
