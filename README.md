@@ -8,12 +8,10 @@
 ## Language I've Used
 - HTML(Hyper text markup language)
 - CSS(casacading style sheet)
-## Featured Projects
+## my Projects
 I have build some several projects to improve my skills and gain experience.
-## Live Demo
- https://bxo9.github.io/Portfolio/
- ## Preview 
- ![Preview Image](/assets/Screenshot%202026-07-07%20221840.png)
+## Demo URL
+https://bxo9.netlify.app/
  ## Goals 
 - Improve frontend development skills
 - Enter in tech carrer
